@@ -16,7 +16,7 @@
     left: 25%;
   
     /* change code below */
-    background: var(--pengiun-skin);
+    background: var(--pengiun-skin,black);
     /* change code above */
   
     width: 50%;
@@ -29,7 +29,7 @@
     left: 23.5%;
   
     /* change code below */
-    background: var(--pengiun-skin);
+    background: var(--pengiun-skin,black);
     /* change code above */
   
     width: 53%;
